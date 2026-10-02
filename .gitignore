@@ -1,0 +1,4 @@
+my_rubika_session.db
+session_b64.txt*
+__pycache__/
+*.pyc
